@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-Jing-Xuan&show_icons=true&theme=default)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-Jing-Xuan&layout=compact)](https://github.com/Zhang-Jing-Xuan)
+
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-Jing-Xuan)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang-Jing-Xuan&repo=Cuda-Learning)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang-Jing-Xuan&repo=MaskRCNN)](https://github.com/anuraghazra/github-readme-stats)
 --?
