@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Language
+
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-C%2B%2B-3e74a2?style=flat-square&logo=C%2B%2B&logoColor=fff)
+![](https://img.shields.io/badge/-C-3e74a2?style=flat-square&logo=C&logoColor=fff)
+![](https://img.shields.io/badge/-Rust-3e74a2?style=flat-square&logo=Rust&logoColor=fff)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-Jing-Xuan&show_icons=true&theme=default)
 
@@ -25,3 +31,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang-Jing-Xuan&repo=Cuda-Learning)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zhang-Jing-Xuan&repo=MaskRCNN)](https://github.com/anuraghazra/github-readme-stats)
 --?
+
+
