@@ -1,4 +1,5 @@
-### Hi there 👋 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Zhang-Jing-Xuan/Zhang-Jing-Xuan)
+### Hi there 👋 
+<!--![Visitors](https://visitor-badge.glitch.me/badge?page_id=Zhang-Jing-Xuan/Zhang-Jing-Xuan)-->
 
 <!--
 **Zhang-Jing-Xuan/Zhang-Jing-Xuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
