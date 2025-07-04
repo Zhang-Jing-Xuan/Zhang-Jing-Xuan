@@ -25,8 +25,9 @@ Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-Jing-Xuan&layout=compact)](https://github.com/Zhang-Jing-Xuan)
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-Jing-Xuan&show_icons=true&theme=default)
-
+-->
 
 
 <!--
